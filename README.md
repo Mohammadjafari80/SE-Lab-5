@@ -20,6 +20,10 @@
 
 ![photo_5981160667907998377_y](https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/2c7df603-bba5-44ba-ad88-57d24623eebb)
 
+- وضعیت Memory و منابع استفاده شده:
+
+![photo_5981160667907998399_y (1)](https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/1ebd8000-bf96-40a4-9035-3285d91ac522)
+
 
 مشکل متد temp در استفاده از ArrayList است. به جای استفاده از ArrayList می توانیم از primitive array (int[]) ها استفاده کنیم تا ذخیره کنیم که هم memory-efficient تر و هم سریع تر است.
 
@@ -41,6 +45,11 @@
 
 <img width="1117" alt="Screenshot 2023-08-19 100159 (1)" src="https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/9c2456e0-08f9-4763-a07f-9cac2dae793c">
 
+- وضعیت Memory و منابع استفاده شده:
+
+![photo_5981160667907998396_y](https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/dd188437-7d70-4bd0-91f3-0c6d3221a98a)
+
+
 ---
 
 ## بخش دوم
@@ -61,6 +70,11 @@
 - این موضوع در قسمت Methods هم مشخص است که متد fibonacci ران تایم زیادی دارد:
 
 ![photo_5981160667907998390_y](https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/218359ea-2a4c-442c-8df7-cb993c800d2d)
+
+- وضعیت Memory و منابع استفاده شده:
+
+![photo_5981160667907998397_y (1)](https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/e1c0a131-b608-43ea-9565-08dfa56d021d)
+
 
 برای بهینه سازی به جای پیاده سازی به روش  recursive از روش iterrative استفاده کردیم
 
@@ -84,6 +98,9 @@
 
 ![photo_5981160667907998385_y](https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/526ebf5f-0fce-4a9e-82a3-adfec9e1198e)
 
+- وضعیت Memory و منابع استفاده شده:
+
+![photo_5981160667907998398_y (1)](https://github.com/Mohammadjafari80/SE-Lab-5/assets/59197179/53d41b1e-6f50-457e-8c2a-22188d9fdd0a)
 
 
 
